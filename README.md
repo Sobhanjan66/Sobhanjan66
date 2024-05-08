@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently pursuing:<br>- MCA at Brainware University<br><br> 📚 I'm currently learning:<br>- Java development & Web Techs.<br><br>🧑🏻‍💻I'm currently working on:<br>- Internships on Java Development & Web Development<br><br>💬  Ask me about:<br>- C, Java, HTML, JavaScript, PHP, Networking, Cybersecurity & general programming questions.<br><br>⚡ In my free time my hobbies are:<br>- Singing, Watching Movies & series, Playing Outdoor & also mobile games</p>
+<p align="left">🔭 <i>I’m currently pursuing:</i><br>- <b>MCA at Brainware University</b><br><br> 📚 <i>I'm currently learning:</i><br>- <b>Java development & Web Techs.</b><br><br>🧑🏻‍💻<i>I'm currently working on:</i><br>-<b> Internships on Java Development & Web Development.</b><br><br>💬  <i>Ask me about:</i><br>- <b>C, Java, HTML, JavaScript, PHP, Networking, Cybersecurity & general programming questions.</b><br><br>⚡ <i>In my free time my hobbies are:</i><br>- <b>Singing, Watching Movies & series, Playing Outdoor & also mobile games.</b></p>
 
 ###
 
