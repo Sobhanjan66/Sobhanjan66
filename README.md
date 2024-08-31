@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 <i>I’m currently pursuing:</i><br>- <b>MCA at Brainware University</b><br><br> 📚 <i>I'm currently learning:</i><br>- <b>DSA with Java & Web development using React.js</b><br><br>🧑🏻‍💻<i>I'm currently working on:</i><br>-<b>Web development using React.js.</b><br><br>💬  <i>Ask me about:</i><br>- <b>C, Java, JavaScript, HTML, CSS, PHP, Networking, Cybersecurity & general programming questions.</b><br><br>⚡ <i>In my free time my hobbies are:</i><br>- <b>Singing, Watching Movies & series, Playing Outdoor & also mobile games.</b></p>
+<p align="left">🔭 <i>I’m currently pursuing:</i><br>- <b>MCA at Brainware University</b><br><br> 📚 <i>I'm currently learning:</i><br>- <b>Web development using Mern Stack</b><br><br>🧑🏻‍💻<i>I'm currently working on:</i><br>-<b>React.js & Backend using JavaScript.</b><br><br>💬  <i>Ask me about:</i><br>- <b>C, Java, JavaScript, HTML, CSS, PHP, Networking, Cybersecurity & general programming questions.</b><br><br>⚡ <i>In my free time my hobbies are:</i><br>- <b>Singing, Watching Movies & series, Playing Outdoor & also mobile games.</b></p>
 
 ###
 
